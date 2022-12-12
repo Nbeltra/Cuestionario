@@ -1,0 +1,18 @@
+._container_p1{
+    background-color:rgb(202 209 209);
+    
+    padding: 26px;
+}
+
+._class_rpt
+{
+    font-size: 14px;    
+}
+._estilos_p{
+    border-bottom: 1px solid #543d3d;
+    padding: 7px;
+}
+._btn{
+ display: flex;
+ justify-content: center;
+}
